@@ -21,6 +21,16 @@ KADOKAWAドワンゴ情報工科学院 IT総合コースで学ぶ2年生です�
 - フロントエンド技術(React / TypeScript)の理解を深めること
 - 学んだ技術を使って自分のプロダクトを完成させること
 
+## 📊 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nari1011&theme=gruvbox)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nari1011&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nari1011&theme=gruvbox)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nari1011&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nari1011&theme=gruvbox&utcOffset=9)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Nari1011/Nari1011/output/github-snake-dark.svg#gh-dark-mode-only)
