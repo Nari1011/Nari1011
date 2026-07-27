@@ -2,13 +2,12 @@
 
 **Web Engineer (志望) / Backend学習中 / Frontend独学中**
 
-KADOKAWAドワンゴ情報工科学院 IT総合コースで学ぶ2年生です。
-学校でバックエンドを学びながら、個人でフロントエンドの学習を進めています。
+専門学校でバックエンドを学びながら、個人でフロントエンドの学習を進めています。
 
 ## 🔧 About Me
 
 - Webエンジニアを目指して勉強中です
-- 学校の授業でバックエンド、個人学習でフロントエンドを扱っています
+- 授業でバックエンド、個人学習でフロントエンドを扱っています
 - 基礎的な部分を一通り触れる言語・技術: Python, Java, HTML/CSS, JavaScript, TypeScript, React
 - 現在はAIツールを活用しながら開発の実践経験を積んでいるところで、近いうちに公開できる成果物を作る予定です
 
@@ -23,13 +22,8 @@ KADOKAWAドワンゴ情報工科学院 IT総合コースで学ぶ2年生です�
 
 ## 📊 GitHub Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nari1011&theme=gruvbox)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nari1011&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nari1011&theme=gruvbox)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nari1011&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nari1011&theme=gruvbox&utcOffset=9)
 
 ## 🐍 Contribution Snake
 
