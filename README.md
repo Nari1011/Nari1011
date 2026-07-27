@@ -22,8 +22,13 @@
 
 ## 📊 GitHub Summary
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nari1011&theme=gruvbox)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nari1011&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nari1011&theme=gruvbox)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nari1011&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nari1011&theme=gruvbox&utcOffset=9)
 
 ## 🐍 Contribution Snake
 
